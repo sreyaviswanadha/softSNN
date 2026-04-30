@@ -1,0 +1,4 @@
+Layer,Standard,SoftSNN
+conv1,97.16,96.89
+conv2,80.32000000000001,86.83
+fc1,58.5,86.79
